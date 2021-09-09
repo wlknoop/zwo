@@ -1,3 +1,4 @@
 ---
-"Hallo wereld"
+title: "Hallo wereld"
 ---
+lorem ipsum dolor
